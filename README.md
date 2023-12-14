@@ -1,4 +1,5 @@
 # awesome-vision-os
+
 A list of materials of vision os development, including but not limited to:
 
 - Official documentation
@@ -29,6 +30,11 @@ Welcome pull request to recommend great materials you think should be included h
 
 - [Build a visionOS Football Stats SwiftUI App | Apple Vision Pro by Xcoding with Alfian](https://www.youtube.com/watch?v=r61KA8Gzw0M)
 
+## Tutorials and cheatsheets 
+
+- [evolution-Metal-ARKit-RealityKit-sheet by ynagatomo](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet?tab=readme-ov-file)
+
+- [Swift-SIMD-Types-Cheat-Sheet by ynagamoto](https://github.com/ynagatomo/Swift-SIMD-Types-Cheat-Sheet)
 
 ## Design Tools
 
