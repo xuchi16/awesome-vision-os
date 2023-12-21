@@ -36,6 +36,7 @@ Welcome pull request to recommend great materials you think should be included h
 
 - [Swift-SIMD-Types-Cheat-Sheet by ynagamoto](https://github.com/ynagatomo/Swift-SIMD-Types-Cheat-Sheet)
 
+- [Vision OS 30 Days by Satoshi](https://github.com/satoshi0212/visionOS_30Days?tab=readme-ov-file)
 ## Design Tools
 
 Library and design templates
